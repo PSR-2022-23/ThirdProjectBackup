@@ -1,0 +1,8 @@
+prefix=/home/xuldir/catkin_ws/install
+
+Name: psr_apartment_description
+Description: Description of psr_apartment_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

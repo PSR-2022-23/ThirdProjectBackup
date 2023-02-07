@@ -1,0 +1,13 @@
+/home/xuldir/catkin_ws/install/_setup_util.py
+/home/xuldir/catkin_ws/install/env.sh
+/home/xuldir/catkin_ws/install/setup.bash
+/home/xuldir/catkin_ws/install/local_setup.bash
+/home/xuldir/catkin_ws/install/setup.sh
+/home/xuldir/catkin_ws/install/local_setup.sh
+/home/xuldir/catkin_ws/install/setup.zsh
+/home/xuldir/catkin_ws/install/local_setup.zsh
+/home/xuldir/catkin_ws/install/.rosinstall
+/home/xuldir/catkin_ws/install/lib/pkgconfig/psr_apartment_description.pc
+/home/xuldir/catkin_ws/install/share/psr_apartment_description/cmake/psr_apartment_descriptionConfig.cmake
+/home/xuldir/catkin_ws/install/share/psr_apartment_description/cmake/psr_apartment_descriptionConfig-version.cmake
+/home/xuldir/catkin_ws/install/share/psr_apartment_description/package.xml
